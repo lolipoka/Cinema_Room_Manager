@@ -1,0 +1,13 @@
+# Project exclude paths
+/.gradle/
+/Cinema Room Manager/task/build/
+/Cinema Room Manager/task/out/
+/Cinema Room Manager/task/out/production/classes/
+/Problems/Check sudoku/out/
+/Problems/Check sudoku/out/production/classes/
+/Problems/Inverse boolean flags/out/
+/Problems/Inverse boolean flags/out/production/classes/
+/Problems/Pretty looking pattern/out/
+/Problems/Pretty looking pattern/out/production/classes/
+/Problems/Symmetric matrix/out/
+/Problems/Symmetric matrix/out/production/classes/
